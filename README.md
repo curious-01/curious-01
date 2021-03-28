@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[Checkout My Web Homepage :house_with_garden:](https://curious-01.github.io "My WEB Home")
+[Checkout My Web story :house_with_garden:](https://curious-01.github.io "My WEB Home")
+
+[Blogs](https://curious-01.github.io/blogs "My Blogs")
 <!--
 **curious-yogi/curious-yogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
